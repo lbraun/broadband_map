@@ -7,6 +7,12 @@ A set of scripts for visualizing broadband speeds in New Hampshire and Vermont.
 * Ruby version 2.5.1
 * MacOS 10.14
 
+## Data Sources
+
+* Broadband data: https://www.fcc.gov/general/broadband-deployment-data-fcc-form-477
+* Population data: https://www.census.gov/geo/maps-data/data/tiger-data.html
+  * State-based population data downloadable under "Population & Housing Unit Counts — Blocks"
+
 
 ## Approach
 
